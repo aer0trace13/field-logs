@@ -1,2 +1,0 @@
-The vault follows the old protocol:
-identity-case-lastcontact
