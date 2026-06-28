@@ -1,2 +1,0 @@
-Do not use the NOVA-7 handle anymore.
-Old public alias burned: orion_moth
